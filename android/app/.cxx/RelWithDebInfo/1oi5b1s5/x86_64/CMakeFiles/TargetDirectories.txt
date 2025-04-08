@@ -1,0 +1,2 @@
+C:/Users/You are the reason/Desktop/SadoiDil/dummy_project/android/app/.cxx/RelWithDebInfo/1oi5b1s5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/You are the reason/Desktop/SadoiDil/dummy_project/android/app/.cxx/RelWithDebInfo/1oi5b1s5/x86_64/CMakeFiles/rebuild_cache.dir
